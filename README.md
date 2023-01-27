@@ -18,7 +18,7 @@ const alex = {
 ```
 <p>
 ##### Some of my repos:  <a href="https://github.com/Alex-Cadevall-Baulies/fingerWarmers" > fingerWarmers </a> || <a href="https://github.com/Alex-Cadevall-Baulies/Knowledge_Base" > knowledgeBase </a>
-##### Contacts: <a href="www.linkedin.com/in/alex-cadevall-baulies-a491b49a" > linkedIn </a> || [eMail](mailto:alexcadevall@gmail.com) || <a href="https://www.instagram.com/alex_cadevall/" > instagram </a>
+##### Contacts: <a href="www.linkedin.com/in/alex-cadevall-baulies-a491b49a" > linkedIn </a> || <a href="alexcadevall@gmail.com" > eMail </a> || <a href="https://www.instagram.com/alex_cadevall/" > instagram </a>
 </p>
 
 <!--
