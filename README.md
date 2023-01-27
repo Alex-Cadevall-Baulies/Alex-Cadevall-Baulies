@@ -19,8 +19,7 @@ const alex = {
 
 ##### Some of my repos:  <a href="https://github.com/Alex-Cadevall-Baulies/fingerWarmers" > fingerWarmers </a> || <a href="https://github.com/Alex-Cadevall-Baulies/Knowledge_Base" > knowledgeBase </a>
 
-[Linkedin](www.linkedin.com/in/alex-cadevall-baulies-a491b49a)
-[GitHub](https://github.com/Alex-Cadevall-Baulies/)
+##### Contacts: [linkedin](www.linkedin.com/in/alex-cadevall-baulies-a491b49a) || [gitHub](https://github.com/Alex-Cadevall-Baulies/) || [instagram](https://www.instagram.com/alex_cadevall/) || [eMail](mailto:alexcadevall@gmail.com)
 
 
 <!--
