@@ -9,8 +9,8 @@ const alex = {
   code: [Javascript, HTML, CSS],
   tools: [Vue, Node, SocketIo, Jest, Express],
   other:{
-            studies: [Project Management, Advertising & PR]
-            previousJobs: [Community Assistant, Travel Agent, Electric Consultant]
+            studies: [Project Management, Advertising & PR],
+            previousJobs: [Community Assistant, Travel Agent, Electric Consultant],
             likes: [Writting, Learning, Walking, Daydreaming],
         },
  learning: "Currently learning React"
