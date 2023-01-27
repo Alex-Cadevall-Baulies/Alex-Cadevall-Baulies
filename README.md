@@ -4,8 +4,7 @@
 </div>
 
 
-<div align = "center">
-```javascript
+```js
 const alex = {
   code: [Javascript, HTML, CSS],
   tools: [Vue, Node, SocketIo, Jest, Express],
@@ -17,7 +16,7 @@ const alex = {
  learning: "Currently learning React"
 }
 ```
-</div>
+
 ---
 - 👋 Hello! I’m @Alex-Cadevall-Baulies
 - 👀 I’m interested in ...
