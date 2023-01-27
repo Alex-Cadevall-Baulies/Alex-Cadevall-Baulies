@@ -8,6 +8,7 @@
 const alex = {
   code: [Javascript, HTML, CSS],
   tools: [Vue, Node, SocketIo, Jest, Express],
+  databases: [SQL, Sequelize, MongoDB, Mongoosh],
   other:{
             studies: [Project Management, Advertising, Public Relations],
             previousJobs: [Community Assistant, Travel Agent, Electric Consultant],
