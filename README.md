@@ -9,7 +9,7 @@ const alex = {
   code: [Javascript, HTML, CSS],
   tools: [Vue, Node, SocketIo, Jest, Express],
   other:{
-            studies: [Project Management, Advertising & PR],
+            studies: [Project Management, Advertising and Public Relations],
             previousJobs: [Community Assistant, Travel Agent, Electric Consultant],
             likes: [Writting, Learning, Walking, Daydreaming],
         },
