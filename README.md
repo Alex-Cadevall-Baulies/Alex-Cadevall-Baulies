@@ -4,22 +4,20 @@
 </div>
 
 
-<!--
+<div align = "center">
 ```javascript
 const alex = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Javascript, HTML, CSS],
+  tools: [Vue, Node, SocketIo, Jest, Express],
+  other:{
+            studies: [Project Management, Advertising & PR]
+            previousJobs: [Community Assistant, Travel Agent, Electric Consultant]
+            likes: [Writting, Learning, Walking, Daydreaming],
+        },
+ learning: "Currently learning React"
 }
 ```
--->
+</div>
 ---
 - 👋 Hello! I’m @Alex-Cadevall-Baulies
 - 👀 I’m interested in ...
