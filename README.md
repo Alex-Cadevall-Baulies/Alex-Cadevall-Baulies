@@ -1,4 +1,7 @@
-<h2> Hello, I'm Alex Cadevall! <img src="https://media.giphy.com/media/2R1L5RYXwBQ1ARRpx8/giphy.gif" width="100"></h2>
+<div align = "center">
+<h2> Hello, I'm Alex Cadevall!</h2>
+<img src="https://media.giphy.com/media/2R1L5RYXwBQ1ARRpx8/giphy.gif" width="100">
+</div>
 
 
 <!--
