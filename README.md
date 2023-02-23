@@ -7,14 +7,14 @@
 ```js
 const alex = {
   code: [Javascript, HTML, CSS],
-  tools: [Vue, Node, SocketIo, Jest, Express],
+  tools: [Vue, Node, SocketIo, Jest, Express, React],
   databases: [SQL, Sequelize, MongoDB, Mongoosh],
   other:{
             studies: [Project Management, Advertising, Public Relations],
             previousJobs: [Community Assistant, Travel Agent, Electric Consultant],
             likes: [Writting, Learning, Walking, Daydreaming],
         },
- learning: "Currently learning React"
+ learning: "Currently learning .Net"
 }
 ```
 
