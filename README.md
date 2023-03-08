@@ -7,7 +7,7 @@
 ```js
 const alex = {
   code: [Javascript, HTML, CSS],
-  tools: [Vue, Node, SocketIo, Jest, Express, React],
+  tools: [Vue, Node, SocketIo, Jest, Express, React, PHP],
   databases: [SQL, Sequelize, MongoDB, Mongoosh],
   other:{
             studies: [Project Management, Advertising, Public Relations],
