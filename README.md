@@ -11,7 +11,7 @@ const alex = {
   databases: [SQL, Sequelize, MongoDB, Mongoosh],
   other:{
             studies: [Project Management, Advertising, Public Relations],
-            previousJobs: [Community Assistant, Travel Agent, Electric Consultant],
+            previousJobs: [Project Manager, Community Assistant, Travel Agent, Electric Consultant],
             likes: [Writting, Learning, Walking, Daydreaming],
         },
  learning: "Currently learning .Net"
