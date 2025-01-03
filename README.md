@@ -14,7 +14,7 @@ const alex = {
             previousJobs: [Project Manager, Community Assistant, Travel Agent, Electric Consultant],
             likes: [Writting, Learning, Walking, Daydreaming],
         },
- learning: "Currently learning EspressJS"
+ learning: "Currently learning NextJS"
 }
 ```
 
